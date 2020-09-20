@@ -37,7 +37,6 @@ synergize and cooperate efficiently with other software developers,
 by working on several projects on the open-source community
 for more than 4 consequent years.
 
-
 Stavros is also highly knowledgable on Computer Hardware,
 Software and Operating Systems inner workings and architecture,
 and can apply this extensive knowledge in order to
