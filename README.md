@@ -40,7 +40,6 @@ for more than 4 consequent years.
 
 Stavros is also highly knowledgable on Computer Hardware,
 Software and Operating Systems inner workings and architecture,
-
 and can apply this extensive knowledge in order to
 design optimized and efficient software
 or quickly troubleshoot any software or hardware issues
