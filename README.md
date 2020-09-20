@@ -43,7 +43,6 @@ and can apply this extensive knowledge in order to
 design optimized and efficient software
 or quickly troubleshoot any software or hardware issues
 which may arise while delivering your projects.
-----------------------------------------------------------------------
 
 
 Having worked for a respectable amount of time
